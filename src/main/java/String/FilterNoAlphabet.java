@@ -1,5 +1,8 @@
 package String;
 
+/**
+ * @author Percy
+ */
 public class FilterNoAlphabet {
 
     public static String filterNoAlphabet(String str) {
